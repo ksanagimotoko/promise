@@ -1,7 +1,7 @@
 
 # promise
 
-### example with no promise
+### Example with no promise
 ```javascript
 function sserver() {
     const wakeUpTime = Date.now() + 1000; //서버에 데이터 요청만 하는데 걸리는 시간 
